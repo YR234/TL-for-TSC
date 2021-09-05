@@ -1,7 +1,7 @@
 # Synthetic Time series data generator
 <h1 align="center">
   <br>
-  <img src="https://github.com/YR234/SyntheticTSDataGenerator/blob/master/pictures/synthetic.png" alt="Synthetic" width="500">
+  <img src="https://github.com/YR234/TL-for-TSC/blob/main/method_overview.png" alt="Synthetic" width="500">
 </h1>
 Synthetic Time series data generator is the open source code from the the paper "Transfer learning in time series classification using synthetic data generation"
 
