@@ -1,4 +1,4 @@
-# Synthetic Time series data generator
+# Transfer learning for time series classification using synthetic data generation
 <h1 align="center">
   <br>
   <img src="https://github.com/YR234/TL-for-TSC/blob/main/method_overview.png" alt="Synthetic" width="1000">
