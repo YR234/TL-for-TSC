@@ -18,7 +18,9 @@ We strongly reccomend to see our [tutorial notebook](https://github.com/YR234/TL
 Our data is available for the community at: [Synthetic data](https://github.com/YR234/TL-for-TSC/tree/main/synthetic%20data)
 
 ## Citation
-Please cite the following manuscript when using this code: "Transfer learning in time series classification using synthetic data generation" (link will be added with acceptance)
+https://link.springer.com/chapter/10.1007/978-3-031-07689-3_18
+Or
+https://arxiv.org/pdf/2207.07897.pdf
 
 
 ## Help
